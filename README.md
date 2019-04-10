@@ -21,7 +21,7 @@ Check it out, the boilerplate is Open Source and MIT licensed.
 - Clone the repo or download from [the releases page](https://github.com/snowballdigital/crystallize-frontend-boilerplate/releases)
 - Run `npm install` to install dependencies
 - Run `npm run dev` to start up
-- - The site should be ready at [http://localhost:3000](http://localhost:3000)
+- - The site should be ready at [http://localhost:5000](http://localhost:3000)
 - (Optional) Install [Editor config](http://editorconfig.org/#download) and [Prettier](https://prettier.io/docs/en/editors.html) plugin for your editor
 
 # App structure
