@@ -22,7 +22,7 @@ export default class Aside extends React.Component {
     return (
       <Basket>
         <Header>Basket</Header>
-        <TinyBasket/>
+        <TinyBasket />
         <Footer>
           {/* <form method="post" action="/checkout">
             <input type="hidden" name="basket" value={JSON.stringify(state)} />
